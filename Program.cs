@@ -7,6 +7,7 @@ namespace C__Perez_Damas
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }

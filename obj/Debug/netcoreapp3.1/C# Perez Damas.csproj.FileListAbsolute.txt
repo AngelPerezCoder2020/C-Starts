@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.exe
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.deps.json
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.dll
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\bin\Debug\netcoreapp3.1\C# Perez Damas.pdb
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.dll
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.pdb
+C:\Users\angel\OneDrive\Escritorio\C# Perez Damas\obj\Debug\netcoreapp3.1\C# Perez Damas.genruntimeconfig.cache
